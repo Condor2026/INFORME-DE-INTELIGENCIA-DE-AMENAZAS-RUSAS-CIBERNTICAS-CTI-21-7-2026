@@ -2,7 +2,7 @@
 
 ![Condor2026](image_condor.jpg)
 
-**Autor:** Condor2026  
+**Autor:** Condor2026   🦅 - Threat Security - 🦅
 **Fecha:** 21 de Julio de 2026  
 **Clasificación:** CRÍTICO - ALTO RIESGO  
 **Objetivo:** Denuncia Pública y Análisis Forense de Infraestructura Maliciosa y Campañas de Phishing/Malware.
@@ -690,7 +690,7 @@ Así que ya sabes: esto no va de un tuit malo o de una cuenta sospechosa. Va de 
 
 **Firmado:**
 
-**Condor2026**  
+**Condor2026  🦅 - Threat Security - 🦅**  
 Analista de Inteligencia de Amenazas Cibernéticas  
 21 de julio de 2026
 
