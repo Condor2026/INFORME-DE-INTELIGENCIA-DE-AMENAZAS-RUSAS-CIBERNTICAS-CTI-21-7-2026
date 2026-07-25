@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "CTI Dossier - goo.su Infrastructure",
-    "author": "Condor2026",
+    "author": "Condor2026 ThreatSecurity",
     "date": "2026-07-21",
     "classification": "CRITICAL",
     "description": "Indicators of Compromise for the SmokeLoader/PureHVNC campaign centered around IP 82.202.170.126 and domain goo.su."
